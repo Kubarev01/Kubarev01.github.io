@@ -1,0 +1,19 @@
+.navbar{
+    padding: 0;
+    height: 80px;
+    background-color: #5a5858;
+}
+
+
+a{
+    color:rgb(199, 197, 197);
+}
+
+.nav-link{
+    color: #5a5858;
+
+}
+
+.nav-link:hover{
+    color:rgb(199, 197, 197);
+}
